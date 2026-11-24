@@ -1,0 +1,114 @@
+-- Migration: row level security for teams, team_members and projects.
+
+-- Helper functions live in a private schema that the Data API does not expose.
+create schema if not exists private;
+
+-- Security definer functions read team_members as the owner (bypassrls), so the
+-- team_members policies do not call back into themselves (no recursion).
+create or replace function private.is_team_member(p_team_id int)
+returns boolean
+language sql
+stable
+security definer
+set search_path = ''
+as $$
+  select exists (
+    select 1
+    from public.team_members tm
+    where tm.team_id = p_team_id
+      and tm.user_id = (select auth.uid())
+  );
+$$;
+
+create or replace function private.is_team_admin(p_team_id int)
+returns boolean
+language sql
+stable
+security definer
+set search_path = ''
+as $$
+  select exists (
+    select 1
+    from public.team_members tm
+    where tm.team_id = p_team_id
+      and tm.user_id = (select auth.uid())
+      and tm.role = 'admin'
+  );
+$$;
+
+revoke execute on function private.is_team_member(int) from public;
+revoke execute on function private.is_team_admin(int) from public;
+grant usage on schema private to authenticated;
+grant execute on function private.is_team_member(int) to authenticated;
+grant execute on function private.is_team_admin(int) to authenticated;
+
+-- Indexes on the columns the policies filter on.
+-- The primary key (team_id, user_id) does not index user_id on its own.
+create index if not exists team_members_user_id_idx
+  on public.team_members (user_id);
+create index if not exists projects_team_id_idx
+  on public.projects (team_id);
+
+-- Enable RLS on every table in the exposed schema that this rule covers.
+alter table public.teams enable row level security;
+alter table public.team_members enable row level security;
+alter table public.projects enable row level security;
+
+-- Remove Supabase's default grants, then grant back only what the rule needs.
+revoke all on table public.teams, public.team_members, public.projects
+  from anon, authenticated;
+
+-- Teams: members read their teams. Team rows are not writable from the API.
+grant select on table public.teams to authenticated;
+
+-- Membership: members read their roster; admins add and remove members.
+-- Role changes are not part of the rule, so there is no update grant.
+grant select, insert, delete on table public.team_members to authenticated;
+
+-- Projects: members read; admins create and delete. Only name is updatable,
+-- so an admin cannot move a project to another team by updating team_id.
+grant select, insert, delete on table public.projects to authenticated;
+grant update (name) on table public.projects to authenticated;
+
+-- Policies: one per operation, each scoped to the authenticated role.
+
+create policy "Members read their teams"
+on public.teams for select
+to authenticated
+using ( private.is_team_member(id) );
+
+create policy "Members read their team roster"
+on public.team_members for select
+to authenticated
+using ( private.is_team_member(team_id) );
+
+create policy "Admins add members to their team"
+on public.team_members for insert
+to authenticated
+with check ( private.is_team_admin(team_id) );
+
+create policy "Admins remove members from their team"
+on public.team_members for delete
+to authenticated
+using ( private.is_team_admin(team_id) );
+
+create policy "Members read their team's projects"
+on public.projects for select
+to authenticated
+using ( private.is_team_member(team_id) );
+
+create policy "Admins create projects in their team"
+on public.projects for insert
+to authenticated
+with check ( private.is_team_admin(team_id) );
+
+create policy "Admins rename their team's projects"
+on public.projects for update
+to authenticated
+using ( private.is_team_admin(team_id) )
+with check ( private.is_team_admin(team_id) );
+
+create policy "Admins delete their team's projects"
+on public.projects for delete
+to authenticated
+using ( private.is_team_admin(team_id) );

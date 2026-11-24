@@ -1,0 +1,9842 @@
+[
+ {
+  "task": "notes",
+  "condition": "baseline",
+  "run": 1,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00085249
+ },
+ {
+  "task": "notes",
+  "condition": "baseline",
+  "run": 2,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00093359
+ },
+ {
+  "task": "notes",
+  "condition": "baseline",
+  "run": 3,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.0008623900000000001
+ },
+ {
+  "task": "notes",
+  "condition": "baseline",
+  "run": 4,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00086089
+ },
+ {
+  "task": "notes",
+  "condition": "baseline",
+  "run": 5,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.0008809900000000001
+ },
+ {
+  "task": "notes",
+  "condition": "baseline",
+  "run": 6,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00084059
+ },
+ {
+  "task": "notes",
+  "condition": "baseline",
+  "run": 7,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.0008619900000000001
+ },
+ {
+  "task": "notes",
+  "condition": "baseline",
+  "run": 8,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.0008169900000000001
+ },
+ {
+  "task": "notes",
+  "condition": "baseline",
+  "run": 9,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.0008550900000000001
+ },
+ {
+  "task": "notes",
+  "condition": "baseline",
+  "run": 10,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00085249
+ },
+ {
+  "task": "notes",
+  "condition": "with-guide",
+  "run": 1,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00320169
+ },
+ {
+  "task": "notes",
+  "condition": "with-guide",
+  "run": 2,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00318889
+ },
+ {
+  "task": "notes",
+  "condition": "with-guide",
+  "run": 3,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.0031998900000000004
+ },
+ {
+  "task": "notes",
+  "condition": "with-guide",
+  "run": 4,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.0032169900000000003
+ },
+ {
+  "task": "notes",
+  "condition": "with-guide",
+  "run": 5,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00321529
+ },
+ {
+  "task": "notes",
+  "condition": "with-guide",
+  "run": 6,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.0032023900000000003
+ },
+ {
+  "task": "notes",
+  "condition": "with-guide",
+  "run": 7,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00320329
+ },
+ {
+  "task": "notes",
+  "condition": "with-guide",
+  "run": 8,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00319519
+ },
+ {
+  "task": "notes",
+  "condition": "with-guide",
+  "run": 9,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00322219
+ },
+ {
+  "task": "notes",
+  "condition": "with-guide",
+  "run": 10,
+  "score": {
+   "task": "notes",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice creates a note in bob's name",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her note to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes her note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor creates a note",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor deletes notes",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 12,
+   "total": 12
+  },
+  "costUsd": 0.00321809
+ },
+ {
+  "task": "teams",
+  "condition": "baseline",
+  "run": 1,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00179669
+ },
+ {
+  "task": "teams",
+  "condition": "baseline",
+  "run": 2,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00189899
+ },
+ {
+  "task": "teams",
+  "condition": "baseline",
+  "run": 3,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.0021189900000000003
+ },
+ {
+  "task": "teams",
+  "condition": "baseline",
+  "run": 4,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.0022332899999999998
+ },
+ {
+  "task": "teams",
+  "condition": "baseline",
+  "run": 5,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00219589
+ },
+ {
+  "task": "teams",
+  "condition": "baseline",
+  "run": 6,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00179139
+ },
+ {
+  "task": "teams",
+  "condition": "baseline",
+  "run": 7,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00282839
+ },
+ {
+  "task": "teams",
+  "condition": "baseline",
+  "run": 8,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.0023258899999999997
+ },
+ {
+  "task": "teams",
+  "condition": "baseline",
+  "run": 9,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.0022652899999999997
+ },
+ {
+  "task": "teams",
+  "condition": "baseline",
+  "run": 10,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00205749
+ },
+ {
+  "task": "teams",
+  "condition": "with-guide",
+  "run": 1,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.004528590000000001
+ },
+ {
+  "task": "teams",
+  "condition": "with-guide",
+  "run": 2,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00499199
+ },
+ {
+  "task": "teams",
+  "condition": "with-guide",
+  "run": 3,
+  "score": {
+   "task": "teams",
+   "migrationError": "syntax error at or near \"```\"",
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "bob joins team B",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    }
+   ],
+   "leaks": 0,
+   "broken": 13,
+   "passed": 0,
+   "total": 13
+  },
+  "costUsd": 0.00488799
+ },
+ {
+  "task": "teams",
+  "condition": "with-guide",
+  "run": 4,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00427049
+ },
+ {
+  "task": "teams",
+  "condition": "with-guide",
+  "run": 5,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.0037015900000000003
+ },
+ {
+  "task": "teams",
+  "condition": "with-guide",
+  "run": 6,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00370049
+ },
+ {
+  "task": "teams",
+  "condition": "with-guide",
+  "run": 7,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00492249
+ },
+ {
+  "task": "teams",
+  "condition": "with-guide",
+  "run": 8,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00492709
+ },
+ {
+  "task": "teams",
+  "condition": "with-guide",
+  "run": 9,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.0037494900000000003
+ },
+ {
+  "task": "teams",
+  "condition": "with-guide",
+  "run": 10,
+  "score": {
+   "task": "teams",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "member bob reads team A projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads team B projects",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob sees his team's members",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice adds carol to team A",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob creates a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob renames a project",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice creates a project in team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin alice moves a project to team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "member bob makes himself admin",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob joins team B",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 13,
+   "total": 13
+  },
+  "costUsd": 0.00455409
+ },
+ {
+  "task": "tickets",
+  "condition": "baseline",
+  "run": 1,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.0015826899999999999
+ },
+ {
+  "task": "tickets",
+  "condition": "baseline",
+  "run": 2,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00131039
+ },
+ {
+  "task": "tickets",
+  "condition": "baseline",
+  "run": 3,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00128839
+ },
+ {
+  "task": "tickets",
+  "condition": "baseline",
+  "run": 4,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00159279
+ },
+ {
+  "task": "tickets",
+  "condition": "baseline",
+  "run": 5,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00169169
+ },
+ {
+  "task": "tickets",
+  "condition": "baseline",
+  "run": 6,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00132899
+ },
+ {
+  "task": "tickets",
+  "condition": "baseline",
+  "run": 7,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.0014099899999999999
+ },
+ {
+  "task": "tickets",
+  "condition": "baseline",
+  "run": 8,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00153929
+ },
+ {
+  "task": "tickets",
+  "condition": "baseline",
+  "run": 9,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00139539
+ },
+ {
+  "task": "tickets",
+  "condition": "baseline",
+  "run": 10,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00167569
+ },
+ {
+  "task": "tickets",
+  "condition": "with-guide",
+  "run": 1,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00335109
+ },
+ {
+  "task": "tickets",
+  "condition": "with-guide",
+  "run": 2,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00336699
+ },
+ {
+  "task": "tickets",
+  "condition": "with-guide",
+  "run": 3,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.003952890000000001
+ },
+ {
+  "task": "tickets",
+  "condition": "with-guide",
+  "run": 4,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.0033109899999999998
+ },
+ {
+  "task": "tickets",
+  "condition": "with-guide",
+  "run": 5,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.0032835900000000003
+ },
+ {
+  "task": "tickets",
+  "condition": "with-guide",
+  "run": 6,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00330099
+ },
+ {
+  "task": "tickets",
+  "condition": "with-guide",
+  "run": 7,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.0038766900000000003
+ },
+ {
+  "task": "tickets",
+  "condition": "with-guide",
+  "run": 8,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00369039
+ },
+ {
+  "task": "tickets",
+  "condition": "with-guide",
+  "run": 9,
+  "score": {
+   "task": "tickets",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 8,
+   "total": 8
+  },
+  "costUsd": 0.00377849
+ },
+ {
+  "task": "tickets",
+  "condition": "with-guide",
+  "run": 10,
+  "score": {
+   "task": "tickets",
+   "migrationError": "schema \"private\" does not exist",
+   "checks": [
+    {
+     "name": "alice reads her ticket",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "mallory with self-set metadata reads only hers",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "admin reads every ticket",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "alice opens a ticket",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "alice opens a ticket as mallory",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "admin updates a ticket",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    },
+    {
+     "name": "mallory updates alice's ticket",
+     "ok": false,
+     "kind": "broken",
+     "detail": "migration failed"
+    }
+   ],
+   "leaks": 0,
+   "broken": 8,
+   "passed": 0,
+   "total": 8
+  },
+  "costUsd": 0.0033759899999999997
+ },
+ {
+  "task": "posts",
+  "condition": "baseline",
+  "run": 1,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00125249
+ },
+ {
+  "task": "posts",
+  "condition": "baseline",
+  "run": 2,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00092709
+ },
+ {
+  "task": "posts",
+  "condition": "baseline",
+  "run": 3,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00090799
+ },
+ {
+  "task": "posts",
+  "condition": "baseline",
+  "run": 4,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00093199
+ },
+ {
+  "task": "posts",
+  "condition": "baseline",
+  "run": 5,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0009754900000000001
+ },
+ {
+  "task": "posts",
+  "condition": "baseline",
+  "run": 6,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00117169
+ },
+ {
+  "task": "posts",
+  "condition": "baseline",
+  "run": 7,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00127579
+ },
+ {
+  "task": "posts",
+  "condition": "baseline",
+  "run": 8,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00091659
+ },
+ {
+  "task": "posts",
+  "condition": "baseline",
+  "run": 9,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00090949
+ },
+ {
+  "task": "posts",
+  "condition": "baseline",
+  "run": 10,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0009226900000000001
+ },
+ {
+  "task": "posts",
+  "condition": "with-guide",
+  "run": 1,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00352489
+ },
+ {
+  "task": "posts",
+  "condition": "with-guide",
+  "run": 2,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0033257900000000003
+ },
+ {
+  "task": "posts",
+  "condition": "with-guide",
+  "run": 3,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0034088900000000004
+ },
+ {
+  "task": "posts",
+  "condition": "with-guide",
+  "run": 4,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00329069
+ },
+ {
+  "task": "posts",
+  "condition": "with-guide",
+  "run": 5,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0036205900000000004
+ },
+ {
+  "task": "posts",
+  "condition": "with-guide",
+  "run": 6,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0032477900000000004
+ },
+ {
+  "task": "posts",
+  "condition": "with-guide",
+  "run": 7,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00332719
+ },
+ {
+  "task": "posts",
+  "condition": "with-guide",
+  "run": 8,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0037003900000000004
+ },
+ {
+  "task": "posts",
+  "condition": "with-guide",
+  "run": 9,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00362749
+ },
+ {
+  "task": "posts",
+  "condition": "with-guide",
+  "run": 10,
+  "score": {
+   "task": "posts",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor reads published posts",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads published posts and her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads published posts and his draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice publishes her draft",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice edits bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice writes as bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice hands her post to bob",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice deletes bob's post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor writes a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor edits a post",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00329269
+ },
+ {
+  "task": "shares",
+  "condition": "baseline",
+  "run": 1,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0032448900000000003
+ },
+ {
+  "task": "shares",
+  "condition": "baseline",
+  "run": 2,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00341449
+ },
+ {
+  "task": "shares",
+  "condition": "baseline",
+  "run": 3,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00292119
+ },
+ {
+  "task": "shares",
+  "condition": "baseline",
+  "run": 4,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00279149
+ },
+ {
+  "task": "shares",
+  "condition": "baseline",
+  "run": 5,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00246509
+ },
+ {
+  "task": "shares",
+  "condition": "baseline",
+  "run": 6,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00132519
+ },
+ {
+  "task": "shares",
+  "condition": "baseline",
+  "run": 7,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00325729
+ },
+ {
+  "task": "shares",
+  "condition": "baseline",
+  "run": 8,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00319099
+ },
+ {
+  "task": "shares",
+  "condition": "baseline",
+  "run": 9,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": false,
+     "kind": "broken",
+     "detail": "misses 1"
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": false,
+     "kind": "broken",
+     "detail": "misses 2"
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": false,
+     "kind": "broken",
+     "detail": "blocked, 0 row(s)"
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 3,
+   "passed": 8,
+   "total": 11
+  },
+  "costUsd": 0.00314479
+ },
+ {
+  "task": "shares",
+  "condition": "baseline",
+  "run": 10,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00302299
+ },
+ {
+  "task": "shares",
+  "condition": "with-guide",
+  "run": 1,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": false,
+     "kind": "broken",
+     "detail": "misses 1, 2 (error: infinite recursion detected in policy for relation \"documents\")"
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": false,
+     "kind": "broken",
+     "detail": "misses 1, 3 (error: infinite recursion detected in policy for relation \"documents\")"
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": false,
+     "kind": "broken",
+     "detail": "misses 2 (error: infinite recursion detected in policy for relation \"documents\")"
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": false,
+     "kind": "broken",
+     "detail": "blocked, error: infinite recursion detected in policy for relation \"documents\""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": false,
+     "kind": "broken",
+     "detail": "blocked, error: infinite recursion detected in policy for relation \"document_shares\""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 5,
+   "passed": 6,
+   "total": 11
+  },
+  "costUsd": 0.0035779900000000005
+ },
+ {
+  "task": "shares",
+  "condition": "with-guide",
+  "run": 2,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": false,
+     "kind": "broken",
+     "detail": "blocked, error: infinite recursion detected in policy for relation \"documents\""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 1,
+   "passed": 10,
+   "total": 11
+  },
+  "costUsd": 0.00371679
+ },
+ {
+  "task": "shares",
+  "condition": "with-guide",
+  "run": 3,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": false,
+     "kind": "leak",
+     "detail": "went through, 1 row(s)"
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 1,
+   "broken": 0,
+   "passed": 10,
+   "total": 11
+  },
+  "costUsd": 0.00364819
+ },
+ {
+  "task": "shares",
+  "condition": "with-guide",
+  "run": 4,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00370569
+ },
+ {
+  "task": "shares",
+  "condition": "with-guide",
+  "run": 5,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": false,
+     "kind": "leak",
+     "detail": "went through, 1 row(s)"
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 1,
+   "broken": 0,
+   "passed": 10,
+   "total": 11
+  },
+  "costUsd": 0.0035858900000000004
+ },
+ {
+  "task": "shares",
+  "condition": "with-guide",
+  "run": 6,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00613629
+ },
+ {
+  "task": "shares",
+  "condition": "with-guide",
+  "run": 7,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": false,
+     "kind": "broken",
+     "detail": "blocked, error: infinite recursion detected in policy for relation \"documents\""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 1,
+   "passed": 10,
+   "total": 11
+  },
+  "costUsd": 0.00373289
+ },
+ {
+  "task": "shares",
+  "condition": "with-guide",
+  "run": 8,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": false,
+     "kind": "broken",
+     "detail": "blocked, error: infinite recursion detected in policy for relation \"documents\""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 1,
+   "passed": 10,
+   "total": 11
+  },
+  "costUsd": 0.00374079
+ },
+ {
+  "task": "shares",
+  "condition": "with-guide",
+  "run": 9,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00576459
+ },
+ {
+  "task": "shares",
+  "condition": "with-guide",
+  "run": 10,
+  "score": {
+   "task": "shares",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "alice reads her documents",
+     "ok": false,
+     "kind": "broken",
+     "detail": "misses 1, 2 (error: infinite recursion detected in policy for relation \"documents\")"
+    },
+    {
+     "name": "bob reads his and the one shared with him",
+     "ok": false,
+     "kind": "broken",
+     "detail": "misses 1, 3 (error: infinite recursion detected in policy for relation \"documents\")"
+    },
+    {
+     "name": "carol reads the one shared with her",
+     "ok": false,
+     "kind": "broken",
+     "detail": "misses 2 (error: infinite recursion detected in policy for relation \"documents\")"
+    },
+    {
+     "name": "visitor reads nothing",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol changes content",
+     "ok": false,
+     "kind": "broken",
+     "detail": "blocked, error: infinite recursion detected in policy for relation \"documents\""
+    },
+    {
+     "name": "owner alice shares with carol",
+     "ok": false,
+     "kind": "broken",
+     "detail": "blocked, error: infinite recursion detected in policy for relation \"document_shares\""
+    },
+    {
+     "name": "reader bob changes content",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol takes ownership",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "editor carol deletes the document",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "reader bob gives himself edit rights",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "bob shares alice's budget with himself",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 5,
+   "passed": 6,
+   "total": 11
+  },
+  "costUsd": 0.00346239
+ },
+ {
+  "task": "guests",
+  "condition": "baseline",
+  "run": 1,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0016122900000000002
+ },
+ {
+  "task": "guests",
+  "condition": "baseline",
+  "run": 2,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00185179
+ },
+ {
+  "task": "guests",
+  "condition": "baseline",
+  "run": 3,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0013518900000000001
+ },
+ {
+  "task": "guests",
+  "condition": "baseline",
+  "run": 4,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0014708899999999999
+ },
+ {
+  "task": "guests",
+  "condition": "baseline",
+  "run": 5,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00170279
+ },
+ {
+  "task": "guests",
+  "condition": "baseline",
+  "run": 6,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00181239
+ },
+ {
+  "task": "guests",
+  "condition": "baseline",
+  "run": 7,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00166099
+ },
+ {
+  "task": "guests",
+  "condition": "baseline",
+  "run": 8,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0016168900000000002
+ },
+ {
+  "task": "guests",
+  "condition": "baseline",
+  "run": 9,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00146349
+ },
+ {
+  "task": "guests",
+  "condition": "baseline",
+  "run": 10,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00172289
+ },
+ {
+  "task": "guests",
+  "condition": "with-guide",
+  "run": 1,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0034527900000000003
+ },
+ {
+  "task": "guests",
+  "condition": "with-guide",
+  "run": 2,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0034332900000000003
+ },
+ {
+  "task": "guests",
+  "condition": "with-guide",
+  "run": 3,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0034645900000000005
+ },
+ {
+  "task": "guests",
+  "condition": "with-guide",
+  "run": 4,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0041234900000000005
+ },
+ {
+  "task": "guests",
+  "condition": "with-guide",
+  "run": 5,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0034500900000000003
+ },
+ {
+  "task": "guests",
+  "condition": "with-guide",
+  "run": 6,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0035182900000000003
+ },
+ {
+  "task": "guests",
+  "condition": "with-guide",
+  "run": 7,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00357309
+ },
+ {
+  "task": "guests",
+  "condition": "with-guide",
+  "run": 8,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0035330900000000004
+ },
+ {
+  "task": "guests",
+  "condition": "with-guide",
+  "run": 9,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.00359309
+ },
+ {
+  "task": "guests",
+  "condition": "with-guide",
+  "run": 10,
+  "score": {
+   "task": "guests",
+   "migrationError": null,
+   "checks": [
+    {
+     "name": "visitor browses products",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice reads own orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest reads no orders",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest adds to cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest places an order",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "guest fills alice's cart",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "visitor adds a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    },
+    {
+     "name": "alice renames a product",
+     "ok": true,
+     "kind": null,
+     "detail": ""
+    }
+   ],
+   "leaks": 0,
+   "broken": 0,
+   "passed": 11,
+   "total": 11
+  },
+  "costUsd": 0.0035899900000000004
+ }
+]
